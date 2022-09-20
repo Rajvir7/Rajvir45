@@ -1,7 +1,8 @@
-# Rajvir45
+## Installation :
 
-git clone https://github.com/Rajvir7/Rajvir45
+* `apt update`
+* `apt install git python python2 -y`
+* `git clone https://github.com/Rajvir7/Rajvir45`
+* `cd Rajvir45`
 
-cd Rajvir45
-
-Python Free-Scrip.py
+#### > Run : `python2 Free-Scrip.py`
