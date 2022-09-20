@@ -5,4 +5,4 @@
 * `git clone https://github.com/Rajvir7/Rajvir45`
 * `cd Rajvir45`
 
-#### > Run : `python2 Free-Scrip.py`
+#### > Run : `python Free-Scrip.py`
